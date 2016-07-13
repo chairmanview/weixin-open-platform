@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-app/weixin-open-app.iml" filepath="$PROJECT_DIR$/weixin-open-app/weixin-open-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-common/weixin-open-common.iml" filepath="$PROJECT_DIR$/weixin-open-common/weixin-open-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-mp/weixin-open-mp.iml" filepath="$PROJECT_DIR$/weixin-open-mp/weixin-open-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-platform.iml" filepath="$PROJECT_DIR$/weixin-open-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-plugin/weixin-open-plugin.iml" filepath="$PROJECT_DIR$/weixin-open-plugin/weixin-open-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-open-web/weixin-open-web.iml" filepath="$PROJECT_DIR$/weixin-open-web/weixin-open-web.iml" />
+    </modules>
+  </component>
+</project>
